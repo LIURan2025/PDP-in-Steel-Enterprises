@@ -2,7 +2,7 @@
 
 ## Experimental data and computational results
 
-This repository contains anonymized parameter ranges and computational results supporting the paper **“Integrated Production and Distribution Planning in Multi-plant Steel Enterprises.”**
+This repository contains anonymized parameter ranges and computational results supporting the paper **“The Production and Distribution Planning Problem in Multi-Plant Steel Enterprises: Mathematical Model and Fix-and-Optimize Matheuristic.”**
 
 ## Repository structure
 
